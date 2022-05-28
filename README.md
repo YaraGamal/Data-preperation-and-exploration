@@ -17,3 +17,21 @@ Please deliver the following:
 • Orange ows files, and screenshots of each part of the work done on it
 • Output CSV file
 • Generated report from Heatmap
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------2Practical Workshop
+Kindly create a new Talend job to do the following:
+• read the content of IMDB.csv file
+• read the content of IMDB.xlsx file
+• read the content of IMDB.json file
+• merge the data collected from the above three files into a new dataset
+• filter the records that has MetaCritic value as "NA"
+• save the output as CSV
+• build the Talend job, and make sure that you can run the exported scripts
+Some notes:
+• to can read excel file in Talend, you can depend on "File Excel" section from Metadata
+• make sure that the output CSV file (the merged one) contains different 58 columns in any order
+Please deliver the following:
+• the exported files from building the Talend job
+• also, right-click on the job → export items → and share with me
+• screenshots of what you achieved
+• the output CSV file
