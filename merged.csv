@@ -1,0 +1,4 @@
+rank,national,goals,Height_cm,Appearances,Wins,Losses,Goals_per_match,Assists,Yellow_cards,Red_cards,players
+continuous,Argentina Belgium England France Ireland Netherlands Trinidad\ &\ Tobago,continuous,continuous,continuous,continuous,continuous,continuous,continuous,continuous,continuous,string
+,,,,,,,,,,,meta
+7.0,England,170.0,188.0,245.0,136.0,57.0,0.68,34.0,27.0,0.0,Harry Kane
